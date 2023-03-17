@@ -1,0 +1,17 @@
+.observer-color{
+  background-color:coral;
+  height: 50px;
+  margin-bottom: 16px;;
+  width: 50px;
+}
+
+.observer{
+  background-color:black;
+  height: 50px;
+  margin-bottom: 16px;;
+  width: 50px;
+}
+
+.observer-content{
+  margin-top:32px;
+}

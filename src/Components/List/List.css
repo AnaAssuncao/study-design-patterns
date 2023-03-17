@@ -1,0 +1,15 @@
+
+.list-item{
+  color: #0097ff;
+  cursor:pointer;
+  font-size:18px;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 50%;
+}

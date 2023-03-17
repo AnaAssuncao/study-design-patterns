@@ -1,0 +1,22 @@
+
+.container{
+  width:80%;
+  max-width: 1230px;
+  padding: 60px;
+}
+
+.container-title{
+  font-size: 24px;
+  color: #0d7a68; 
+}
+
+.container-text{
+  font-size: 16px;
+}
+
+.container-content{
+  margin-top:32px;
+  padding:16px;
+  border: solid 1px #0d7a68;
+  border-radius: 16px;
+}
